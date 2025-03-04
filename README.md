@@ -1,8 +1,6 @@
-Sure! Here's a README file for your ERC-20 token deployment using Hardhat:  
-
----
-
 # **MyToken - ERC-20 Deployment on Sepolia Testnet**  
+<img width="1432" alt="Screenshot 2025-03-04 alle 10 39 06" src="https://github.com/user-attachments/assets/6b5375be-8fdc-4cd2-b847-088e57c21b9b" />
+
 
 ## **📝 Overview**  
 This project demonstrates how to deploy an **ERC-20 token** using Hardhat on the Ethereum **Sepolia testnet**. It uses OpenZeppelin’s ERC-20 implementation and includes a Hardhat script for deployment.  
